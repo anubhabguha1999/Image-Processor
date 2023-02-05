@@ -1,3 +1,6 @@
+#pip install pillo
+#create a folder and name it as img and store the files that you need to edit
+#create a folder called editedImgs to save the edited files
 from PIL import Image, ImageEnhance, ImageFilter
 import os
 
